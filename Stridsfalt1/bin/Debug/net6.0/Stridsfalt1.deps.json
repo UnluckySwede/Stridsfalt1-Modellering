@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Stridsfalt1/1.0.0": {
+        "runtime": {
+          "Stridsfalt1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stridsfalt1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\bin\Debug\net6.0\Stridsfalt1.exe
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\bin\Debug\net6.0\Stridsfalt1.deps.json
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\bin\Debug\net6.0\Stridsfalt1.runtimeconfig.json
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\bin\Debug\net6.0\Stridsfalt1.dll
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\bin\Debug\net6.0\Stridsfalt1.pdb
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\obj\Debug\net6.0\Stridsfalt1.csproj.AssemblyReference.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\obj\Debug\net6.0\Stridsfalt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\obj\Debug\net6.0\Stridsfalt1.AssemblyInfoInputs.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\obj\Debug\net6.0\Stridsfalt1.AssemblyInfo.cs
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\obj\Debug\net6.0\Stridsfalt1.csproj.CoreCompileInputs.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\obj\Debug\net6.0\Stridsfalt1.dll
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\obj\Debug\net6.0\refint\Stridsfalt1.dll
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\obj\Debug\net6.0\Stridsfalt1.pdb
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\obj\Debug\net6.0\Stridsfalt1.genruntimeconfig.cache
+C:\Users\gadler.michael\Documents\Visual-Studios-Code\Stridsfalt1\Stridsfalt1\obj\Debug\net6.0\ref\Stridsfalt1.dll
